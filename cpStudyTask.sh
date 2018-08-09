@@ -1,0 +1,1 @@
+cp -r dist/index ~/svn/static/x5home_2.0 & cp -r dist/unfinished ~/svn/static/x5home_2.0 & cp -r dist/classList_science ~/svn/static/x5home_2.0 & cp -r dist/classList_liberalArts ~/svn/static/x5home_2.0 & cp -r dist/classTable ~/svn/static/x5home_2.0
